@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TahmidhassanHridoy
-- 👀 I’m interested in C,C++,Java,C#,HTML,PHP,CSS.
+- 👀 I’m interested in C,C++,Java,C#,ASP.Net,PHP,Laravel,Javascript,React.js,HTML,Css
 - 🌱 I’m currently learning Laravel and React.js
-- 💞️ I’m looking to collaborate on Software Engineer ,SQA Engineer
+- 💞️ I’m looking to collaborate on Software Engineer(Front/Back-End) ,SQA Engineer
 - 📫 How to reach me email: tahmidhassanridoy@gmail.com
 
 <!---
