@@ -2,7 +2,7 @@
 - 👀 I’m interested in C,C++,Java,C#,ASP.Net,PHP,Laravel,Javascript,React.js,HTML,Css
 - 🌱 I’m currently learning Laravel and React.js
 - 💞️ I’m looking to collaborate on Software Engineer(Front/Back-End) ,SQA Engineer ( Manual Testing & Autometion testing-Selenium )
-- 📫 How to reach me email: tahmidhassanridoy@gmail.com
+- 📫 How to reach me email: tahmidhassanhridoy@gmail.com
 
 <!---
 TahmidhassanHridoy/TahmidhassanHridoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
