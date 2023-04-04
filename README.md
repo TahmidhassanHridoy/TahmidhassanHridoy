@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TahmidhassanHridoy](https://github.com/TahmidhassanHridoy)
 
-- 💬 Ask me about Competitive Programming , SOLID ,SQA .
+- 💬 Ask me about Competitive Programming , OOP Concept , SQA .
 
 - 📫 How to reach me tahmidhassanhridoy@gmail.com
 
