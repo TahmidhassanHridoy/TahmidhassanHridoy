@@ -12,7 +12,7 @@
 - 📫 How to reach me **tahmidhassanhridoy@gmail.com**
 
 - 🔭 **Internship- Management Information System  SEBL | DX  National Distributor Xiaomi in [Bangladesh]**
-- 🔭 **Internship- FullStack Software Developer  Walton HI-Tech Industries PLC [Bangladesh]**
+- 🔭 **Internship- FullStack Software Developer  Walton Hi-Tech Industries PLC [Bangladesh]**
 
 - ⚡ Fun fact **I love to Travel and Explore places , Foods.**
 
