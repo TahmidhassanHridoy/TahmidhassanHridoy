@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TahmidhassanHridoy](https://github.com/TahmidhassanHridoy)
 
-- 💬 Ask me about **Java , Spring Boot , C# , ASP.Net , ASP.Net Core, React , Angular , Typescript , Algorithm , Data Structure**
+- 💬 Ask me about **Java , Spring Boot , C# , ASP .Net , ASP .Net Core, React , Angular , Typescript , Algorithm , Data Structure**
 
 - 📫 How to reach me **tahmidhassanhridoy@gmail.com**
 
