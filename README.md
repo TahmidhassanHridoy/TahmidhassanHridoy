@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Tahmid Hassan Ridoy</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate FullStack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahmidhassanhridoy&label=Profile%20views&color=0e75b6&style=flat" alt="tahmidhassanhridoy" /> </p>
 
 - 🔭 I’m currently working on research **arifact and Structural Object Detection with Augmented Reality**
-
 - 🌱 I’m currently learning Advance **Human computer Interaction | AI**
-
 - 👨‍💻 All of my projects are available at [https://github.com/TahmidhassanHridoy](https://github.com/TahmidhassanHridoy)
 
 - 💬 Ask me about **Java , Spring Boot , C# , ASP .Net , ASP .Net Core, React , Angular , Typescript , Algorithm , Data Structure**
 
 - 📫 How to reach me **tahmidhassanhridoy@gmail.com**
+
+- 🔭 **Internship- Management Information System  SEBL | DX  National Distributor Xiaomi in [Bangladesh]**
+- 🔭 **Internship- FullStack Software Developer  Walton HI-Tech Industries PLC [Bangladesh]**
 
 - ⚡ Fun fact **I love to Travel and Explore places , Foods.**
 
