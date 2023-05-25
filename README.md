@@ -7,11 +7,10 @@
 - 🌱 I’m currently learning Advance **Human computer Interaction | AI**
 - 👨‍💻 All of my projects are available at [https://github.com/TahmidhassanHridoy](https://github.com/TahmidhassanHridoy)
 
-- 💬 Ask me about **Java , Spring Boot , C# , ASP .Net , ASP .Net Core, React , Angular , Typescript , Algorithm , Data Structure**
+- 💬 Ask me about **C# , ASP .Net , ASP .Net Core , Java , Spring Boot , React , Angular , Typescript , Algorithm , Data Structure**
 
 - 📫 How to reach me **tahmidhassanhridoy@gmail.com**
 
-- 🔭 **Internship- Management Information System  SEBL | DX  National Distributor Xiaomi in [Bangladesh]**
 - 🔭 **Internship- FullStack Software Developer  Walton Hi-Tech Industries PLC [Bangladesh]**
 
 - ⚡ Fun fact **I love to Travel and Explore places , Foods.**
