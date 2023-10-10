@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Tahmid Hassan Ridoy</h1>
-<h3 align="center">A passionate FullStack developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahmidhassanhridoy&label=Profile%20views&color=0e75b6&style=flat" alt="tahmidhassanhridoy" /> </p>
 
-- 🔭 I’m currently working on research **arifact and Structural Object Detection with Augmented Reality**
-- 🌱 I’m currently learning Advance **Human computer Interaction | AI**
+- 🔭 I’m currently working on research **artifact and Structural Object Detection with Augmented Reality**
+- 🌱 I’m currently learning Advance **Human-computer Interaction | AI**
 - 👨‍💻 All of my projects are available at [https://github.com/TahmidhassanHridoy](https://github.com/TahmidhassanHridoy)
 
-- 💬 Ask me about **C# , ASP .Net , ASP .Net Core , Java , Spring Boot , React , Angular , Typescript , Algorithm , Data Structure**
+- 💬 Ask me about **Java, Spring Boot, Angular, Typescript,C#, ASP .Net, ASP .Net Core, React, Algorithm, Data Structure**
 
 - 📫 How to reach me **tahmidhassanhridoy@gmail.com**
 
-- 🔭 **Internship- FullStack Software Developer  Walton Hi-Tech Industries PLC [Bangladesh]**
+- 🔭 **Intern Software Engineer[Java,Spring Boot,Angular,Typescript]  Walton Hi-Tech Industries PLC [Bangladesh]**
+- 🔭 **Jr. Software Engineer[Java,Spring Boot,Angular,Typescript]  Walton Hi-Tech Industries PLC [Bangladesh]**
 
-- ⚡ Fun fact **I love to Travel and Explore places , Foods.**
+- ⚡ Fun fact **I love to Travel and Explore places and foods.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
