@@ -4,16 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahmidhassanhridoy&label=Profile%20views&color=0e75b6&style=flat" alt="tahmidhassanhridoy" /> </p>
 
 - 🔭 I’m currently working on Walton Smart HRMS[Human Resorce Management System] **WALTON HI-TECH INDUISTRIES PLC**
-- 🔭 I’m currently working on research **artifact and Structural Object Detection with Augmented Reality**
+- 🔭 I’m  worked on research **artifact and Structural Object Detection with Augmented Reality**
 - 🌱 I’m currently learning Advance **Human-computer Interaction | AI**
 - 👨‍💻 All of my projects are available at [https://github.com/TahmidhassanHridoy](https://github.com/TahmidhassanHridoy)
 
-- 💬 Ask me about **Java, Spring Boot, Angular, Typescript,C#, ASP .Net, ASP .Net Core, React, Algorithm, Data Structure**
+- 💬 Ask me about **Java, Spring Boot, Angular, Typescript,React, Algorithm, Data Structure**
 
 - 📫 How to reach me **tahmidhassanhridoy@gmail.com**
 
-- 🔭 **Intern Software Engineer[Java,Spring Boot,Angular,Typescript]  Walton Hi-Tech Industries PLC [Bangladesh]**
 - 🔭 **Jr. Software Engineer[Java,Spring Boot,Angular,Typescript]  Walton Hi-Tech Industries PLC [Bangladesh]**
+- 🔭 **Intern Software Engineer[Java,Spring Boot,Angular,Typescript]  Walton Hi-Tech Industries PLC [Bangladesh]**
 
 - ⚡ Fun fact **I love to Travel and Explore places and foods.**
 
