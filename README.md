@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahmidhassanhridoy&label=Profile%20views&color=0e75b6&style=flat" alt="tahmidhassanhridoy" /> </p>
 
+- 🔭 I’m currently working on Walton Smart HRMS[Human Resorce Management System] **WALTON HI-TECH INDUISTRIES PLC**
 - 🔭 I’m currently working on research **artifact and Structural Object Detection with Augmented Reality**
 - 🌱 I’m currently learning Advance **Human-computer Interaction | AI**
 - 👨‍💻 All of my projects are available at [https://github.com/TahmidhassanHridoy](https://github.com/TahmidhassanHridoy)
